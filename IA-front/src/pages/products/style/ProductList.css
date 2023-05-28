@@ -1,0 +1,18 @@
+.productlist{
+    margin: 50px;
+    display: flex;
+    justify-content:center ;
+    align-items: center;
+    flex-direction: row;
+}
+.productlist .productcard{
+    width: 20%;
+    margin: 20px;
+}
+h1{
+    padding: 10px;
+    height: 40px;
+    width:100%;
+    text-align: center;
+    color: #286fa4;
+}

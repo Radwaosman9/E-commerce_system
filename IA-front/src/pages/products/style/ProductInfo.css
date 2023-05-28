@@ -1,0 +1,28 @@
+.movie-image {
+    width: 100%;
+    border-radius: 10px;
+    height: 300px;
+  }
+  
+  .review-container {
+    border-radius: 5px;
+    border: 1px solid #ddd;
+    margin-bottom: 1rem;
+    padding: 1rem;
+  }
+  
+  .review-container p {
+    margin: 0;
+  }
+  .mb-7{
+    top:10px;
+    left:7px;
+  }
+ .l1{
+    top:100px;
+    width: 100%;
+ }
+ .mb-9{
+    top:60px;
+    left:7px;
+ }

@@ -1,0 +1,50 @@
+
+.image-clothes
+{
+    width: 300px;
+    height: 200px;
+    border-radius: 5px;
+}
+
+
+.p-3
+{
+    position: relative;
+    top: 1px;
+    left: 200px;
+    width: 1150px;
+    text-align: center;
+}
+
+td.men
+{
+    background-color: rgb(206, 206, 241);
+    font-size: 40px;
+    text-align: center;
+   
+
+}
+
+
+td.women
+{
+    background-color: rgb(245, 195, 234);
+    font-size: 40px;
+    text-align: center;
+
+}
+
+
+td.accessories
+{
+    background-color: rgb(202, 255, 228);
+    font-size: 40px;
+    text-align: center;
+
+}
+
+td.desc
+{
+    background-color: azure;
+    font-size: 25px;
+}

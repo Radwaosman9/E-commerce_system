@@ -1,0 +1,26 @@
+/* .product-listAccessories
+{
+    height: 2900px;
+    margin: 10px;
+    justify-content: space-around;
+    align-items: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-flow: row wrap;
+    margin-top: 50px;
+    margin-left: 150px;
+    
+    
+
+}
+
+
+.product-listAccessories .product-card
+{
+    width: 30%;
+    height: 500px;
+    margin-bottom: 5%;
+
+} */

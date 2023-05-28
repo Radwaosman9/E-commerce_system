@@ -1,0 +1,75 @@
+.add-container2
+{
+    text-align: center;
+    height: 600px;
+    background-color: azure;
+
+}
+/* .form-control
+{
+    width: 200px;
+    text-align: center;
+} */
+
+.p-2
+{
+    position: relative;
+    top: 40px;
+    left: 200px;
+    width: 1000px;
+}
+
+
+.g1{
+    position: relative;
+    top: -120px;
+    left: 400px;
+    background-color: #c6d1d1;
+    /* border: "1px solid #ddd";
+    border-Radius: 10px; */
+}
+ .g2{
+    position: relative;
+    top: -75px;
+    left: 400px;
+    background-color: #c6d1d1;
+}
+.g3{
+    position: relative;
+    top: -30px;
+    left: 400px;
+    background-color: #c6d1d1;
+} 
+/* input.form-control3
+{
+    position: relative;
+    top: 190px;
+    left: -8px;
+    background-color: #c6d1d1;
+    width: 220px;
+} */ */
+
+textarea.z4
+{
+    position: relative;
+    top: 800px;
+    left: 50px;
+}
+.mb-2{
+    position: relative;
+    top: 150px;
+    left: -20px;
+}
+.n9{
+    
+        position: relative;
+        top: 180px;
+        left: 40px;
+    
+}
+
+.n10
+{
+    position: relative;
+    top: 200px;
+}
